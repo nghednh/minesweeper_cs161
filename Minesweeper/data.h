@@ -7,4 +7,3 @@ void saveload();
 void loadmodee();
 void savemodee();
 void count();
-//kakaka
