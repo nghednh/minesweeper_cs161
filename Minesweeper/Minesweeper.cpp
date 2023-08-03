@@ -2,7 +2,6 @@
 #include "data.h"
 int main()
 {
-	//load the old mode
 	loadmodee();
 	//call menu
 	menu();
